@@ -1,3 +1,4 @@
+package HellowWorldMaven;
 
 public class HelloWorld {
 
